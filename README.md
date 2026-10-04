@@ -10,3 +10,5 @@ pip install -r requirements.txt
 
 python sniper.py --token YOUR_USER_TOKEN
 
+
+<!-- last-checked: 2026-10-04 -->
